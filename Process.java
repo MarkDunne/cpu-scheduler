@@ -1,5 +1,5 @@
 /**
- * @author Mark Dunne (111379601)
+ * @author Mark Dunne
  */
 
 import java.util.Random;
